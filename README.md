@@ -14,3 +14,7 @@ Regex (UUIDv4):
 
 Regex (JwT):
 `let results = exploit(this, /e[yw][A-Za-z0-9-_]+\.(?:e[yw][A-Za-z0-9-_]+)?\.[A-Za-z0-9-_]{2,}(?:(?:\.[A-Za-z0-9-_]{2,}){2})?/)`
+
+## Disclaimer
+
+This code is a slight modification of the script located here : https://gist.github.com/stracker-phil/e5b3bbd5d5eb4ffb2acdcda90d8bd04f 
